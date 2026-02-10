@@ -1,0 +1,7 @@
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\bin\Debug\Sortera number.exe.config
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\bin\Debug\Sortera number.exe
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\bin\Debug\Sortera number.pdb
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\obj\Debug\Sortera number.csproj.AssemblyReference.cache
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\obj\Debug\Sortera number.csproj.CoreCompileInputs.cache
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\obj\Debug\Sortera number.exe
+C:\Users\elias.larsson10\Desktop\Lektion programmering\Sortera number\Sortera number\obj\Debug\Sortera number.pdb
